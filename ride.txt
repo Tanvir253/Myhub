@@ -4,3 +4,6 @@ mockup
 development
 deployment
 bla bla
+revenue steam
+business model
+investment
